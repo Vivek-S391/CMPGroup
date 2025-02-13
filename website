@@ -1,0 +1,67 @@
+--
+layout: default
+title: Computational Materials Physics Group
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computational Materials Physics Group</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">CMPG @ IIT Ropar</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#research">Research</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#members">Members</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#publications">Publications</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header class="bg-primary text-white text-center py-5">
+        <h1>Computational Materials Physics Group</h1>
+        <p>Department of Physics, IIT Ropar</p>
+    </header>
+
+    <section id="research" class="container py-5">
+        <h2>Our Research</h2>
+        <p>We focus on computational approaches to understand materials for electronic, spintronic, and photonic applications.</p>
+    </section>
+
+    <section id="members" class="container py-5 bg-light">
+        <h2>Group Members</h2>
+        <ul>
+            <li><b>Dr. Vivekanand Shukla</b> - Principal Investigator</li>
+            <li>Abhishek Kumar (PhD), Rishabh Sirswa (M.Sc)</li>
+            <li>Dharmender (PhD), Praveen Kumar (M.Sc)</li>
+            <li>Project Fellow - Hybrid Perovskites</li>
+        </ul>
+    </section>
+
+    <section id="publications" class="container py-5">
+        <h2>Publications</h2>
+        <p>Recent research papers and conference proceedings will be listed here.</p>
+    </section>
+
+    <section id="contact" class="container py-5 bg-light">
+        <h2>Contact Us</h2>
+        <p>Email: [Your Email] | Office: IIT Ropar, Physics Dept.</p>
+    </section>
+
+    <footer class="bg-dark text-white text-center py-3">
+        &copy; 2025 Computational Materials Physics Group, IIT Ropar
+    </footer>
+</body>
+</html>
+
